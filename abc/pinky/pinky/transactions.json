@@ -1,0 +1,23 @@
+[
+    {
+        "description": "salary",
+        "amount": 10000000,
+        "type": "income",
+        "category": "Transport",
+        "date": "2025-04-28"
+    },
+    {
+        "description": "clothes",
+        "amount": 1000,
+        "type": "expense",
+        "category": "Health",
+        "date": "2025-04-30"
+    },
+    {
+        "description": "salary",
+        "amount": 100000,
+        "type": "income",
+        "category": "Food",
+        "date": "2025-04-27"
+    }
+]
